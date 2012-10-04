@@ -9,6 +9,8 @@ public class Main {
 		// TODO Auto-generated method stub
 int A;
 
+int b;
+
 int c;
 	}
 
