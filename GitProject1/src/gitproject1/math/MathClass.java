@@ -1,0 +1,10 @@
+package gitproject1.math;
+
+public class MathClass {
+	private MathClass() {
+	}
+
+	public static int sum(int a, int b) {
+		return a + b;
+	}
+}
