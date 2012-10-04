@@ -11,4 +11,8 @@ public class MathClass {
 	public static float sum(float a, float b) {
 		return a + b;
 	}
+	
+	public static long sum(long a, long b){
+		return a+b;
+	}
 }
